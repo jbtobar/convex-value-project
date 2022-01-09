@@ -58,3 +58,9 @@ Works closely with `App`, and heavily depends on `API`.
 ***App***
 
 This is the actual front-end app which users interact with and in which modules are delivered.
+
+---
+
+## Philosophy
+
+The project should be API-first.
