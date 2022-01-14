@@ -31,6 +31,27 @@ Most of the work so far has been done in a "just-in-time" or "on-the-fly" style.
 
 ## How to move forward
 
+To move forward and grow into the business we want to have - the following 3 steps should be taken on each of the three branches.
+
+***Technology***
+
+1. [ ] Map out the technological architecture and requirements for the project
+2. [ ] Classify the requirements with a criteria to evaluate priority (eg. 'Urgent/Critical' vs 'Non-Urgent')
+3. [ ] Estimate resources and time needed to accomplish the technological requirements according to their priority
+
+
+***Operations***
+
+1. [ ] List the operational requirements for the business
+2. [ ] Classify the operational requirements by priority
+3. [ ] Estimate resources.
+
+
+***Community***
+
+1. [ ] List the community requirements for the business
+2. [ ] Classify the community requirements by priority
+3. [ ] Estimate resources.
 
 
 
