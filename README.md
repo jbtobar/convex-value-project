@@ -10,15 +10,28 @@ To grow into a trailblazing business I believe we must become a well-oiled machi
 
 ***Technology***
 
-This branch is in charge of r&d, design, building, and maintaining the ConvexValue product.
+This branch is in charge of r&d, design, building, and maintaining the ConvexValue codebase and infrastructure.
 
 ***Operations***
 
-This branch is in charge of making sure the company itself is running smoothly. From managing finances, to handling license agreements, lawyers, to taxes, payroll, and human resources.
+This branch is in charge of making sure the company itself is running smoothly. From managing finances, to handling license agreements, lawyers, trademarks and patents, to taxes, payroll, and human resources.
 
 ***Community***
 
 This branch is in charge of sales, marketing, tutorials, customer support - and everything related to the existing and potential users of the product.
+
+----
+
+Up until today all these roles have been performed by myself. As we grow - we should grow into a structure where each of those roles has the resources it deserves to perform optimally.
+
+My area of expertise is the technology branch.
+
+Most of the work so far has been done in a "just-in-time" or "on-the-fly" style. This was a competitive edge and an advantage on the start - because I was able to be agile and respond quickly to user feedback to develop features and find product-market-fit. However - it is not the best way to build a trailblazing business because it incurs a lot of technical debt. This technical debt is something we eventually have to reckon with.
+
+
+## How to move forward
+
+
 
 
 ## Technology
